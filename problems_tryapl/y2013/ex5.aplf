@@ -1,0 +1,4 @@
+ex5←{
+    ⍝ ⍵ is the size of the returned identity matrix
+    (⍳⍵)∘.=⍳⍵
+}
