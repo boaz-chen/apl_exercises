@@ -1,0 +1,4 @@
+ex7←{
+    ⍝ ⍵ is a numeric array out of which the floating point numbers will be returned
+    ({0<(|⍵)-⌊|⍵}¨⍵)/⍵
+}
