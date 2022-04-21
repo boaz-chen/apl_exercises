@@ -1,4 +1,4 @@
- ex2←{
-     ⍝ ⍵ is a list of grades
-     100×(+/65≤⍵)÷≢⍵
- }
+ex2←{
+    ⍝ ⍵ is a list of grades
+    100×(+/65≤⍵)÷≢⍵
+}

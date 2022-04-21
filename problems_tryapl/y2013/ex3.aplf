@@ -1,4 +1,4 @@
 ex3←{
-     ⍝ ⍵ is text we want to count words of
+    ⍝ ⍵ is text we want to count words of
     +/2>/' '≠⍵,' '
 }

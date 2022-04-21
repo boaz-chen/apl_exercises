@@ -1,4 +1,4 @@
- ex1←{
-     ⍝ ⍵ is the number of odd numbers that should return
-     (¯1*⎕IO)+2×⍳⍵
- }
+ex1←{
+    ⍝ ⍵ is the number of odd numbers that should return
+    (¯1*⎕IO)+2×⍳⍵
+}

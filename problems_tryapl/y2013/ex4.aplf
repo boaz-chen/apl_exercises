@@ -1,0 +1,4 @@
+ex4←{
+    ⍝ ⍵ is an arithemtic expression that is checked for balanced parentheses
+    (0=¯1↑s)∧(∧/0≤s←+\-⌿'()'∘.=⍵)
+}
