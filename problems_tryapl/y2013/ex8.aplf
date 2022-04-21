@@ -1,3 +1,4 @@
-ex8←{
-    (⊣∘.×⊢)|⎕IO-1+⍳⍵
-}
+ ex8←{
+     ⍝ ⍵ is the size of the multiplication table to return
+     (⊣∘.×⊢)|⎕IO-1+⍳⍵
+ }

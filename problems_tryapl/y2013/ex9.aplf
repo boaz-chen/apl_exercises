@@ -1,0 +1,5 @@
+ex9←{
+    ⍝ ⍵ is a numeric array
+    ⍝ ⍺ is the moving average window
+    (+/÷≢)¨⍺,/⍵
+}
