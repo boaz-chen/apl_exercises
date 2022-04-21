@@ -1,0 +1,6 @@
+ex1←{
+    ⍝ ⍺ is a vector of two numbers that represent the length of the triangle legs
+    ⍝ ⍵ is the length of the hypotenuse
+
+    (+/2*⍨⍺)=⍵*2
+}

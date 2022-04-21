@@ -1,0 +1,4 @@
+ex10←{
+    ⍝ A linear equation solver (x and y)
+    ⍝ ⍵ is a matrix of coefficients
+}
